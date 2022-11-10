@@ -1,4 +1,5 @@
 {
+  "name": "sandman-simple-server",
   "scripts": {
     "dev": "nodemon index"
   },
